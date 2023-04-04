@@ -719,6 +719,10 @@
 127.0.0.1 content.jwplatform.com
 127.0.0.1 prd.jwpltx.com
 127.0.0.1 videos.fms.jwpsrv.com
+127.0.0.1 ads.juicyads.me
+127.0.0.1 flixdot.com
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 tpc.googlesyndication.com
 
 0.0.0.0 asdf.fakesite.org
 
