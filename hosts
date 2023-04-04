@@ -234,7 +234,7 @@
 127.0.0.1				cdn.eyewonder.com
 127.0.0.1				images.intellitxt.com
 127.0.0.1				pixel.intellitxt.com
-127.0.0.1				*.inellitxt.com
+#127.0.0.1				*.inellitxt.com
 127.0.0.1				cdn.triggertag.gorillanation.com
 127.0.0.1				140cc.v.fwmrm.net
 127.0.0.1				view.atdmt.com
@@ -439,8 +439,8 @@
 127.0.0.1	ad2place.now
 127.0.0.1	newfree.checkupdatenow.com
 127.0.0.1	ads.exoclick.com
-127.0.0.1	*.cloudfront.net
-127.0.0.1	*.plugrush.com
+#127.0.0.1	*.cloudfront.net
+#127.0.0.1	*.plugrush.com
 127.0.0.1	pu.plugrush.com
 127.0.0.1	cdn.adbrau.com
 127.0.0.1	serve.adplxmd.com
@@ -566,7 +566,7 @@
 127.0.0.1  as.eu.angsrvr.com
 127.0.0.1  v5.moatads.com
 127.0.0.1  adrta.com
-127.0.0.1  api-dimestore,dmi.sensic.net
+127.0.0.1  api-dimestore.dmi.sensic.net
 127.0.0.1  live.sekindo.com
 127.0.0.1  secure-dcr.imrworldwide.com
 127.0.0.1  search.spotxchange.com
@@ -708,7 +708,7 @@
 127.0.0.1	meryjane.pro
 127.0.0.1	s-img.adskeeper.co.uk
 127.0.0.1 ping-meta-prd.jwpltz.com
-127.0.0.1 static.wikia.nocookie.net
+#127.0.0.1 static.wikia.nocookie.net
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 tag.durationmedia.net
 127.0.0.1 c2shb.ssp.yahoo.com
