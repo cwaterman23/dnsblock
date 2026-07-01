@@ -733,6 +733,14 @@
 127.0.0.1 ws.vs3.com
 127.0.0.1 live-screencaps.vscdns.com
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 wigdet.sellwild.com
+127.0.0.1 cache.sellwild.com
+127.0.0.1 ads.assemblyexchange.com
+127.0.0.1 srv.tunefindforfans.com
+127.0.0.1 medialab-match.dotomi.com
+127.0.0.1 sync.rbstsystemslive.com
+127.0.0.1 sync.sparteo.com
+127.0.0.1 sync.cootlogix.com
 
 0.0.0.0 asdf.fakesite.org
 
